@@ -17,7 +17,7 @@ It can be concluded from this set of data that urban cities have the highest num
 
 Another conclusion that can be drawn from the results, is the differences in average fare per ride and driver. Even though urban cities have the highest number of rides and drivers, their average fares are lower because of the high volume of rides occurring in these cities. **As the number of rides increase, the average fare on those rides will decrease.**
 
-The line chart below shows the total fare by city type through the first 4 months of 2019. This graph is a snapshot of the data for this specific timeframe that supports the overall results of the  summary table above. 
+The line chart below shows the total fare by city type through the first 4 months of 2019. This graph is a snapshot of the data for this specific timeframe that supports the overall results above. 
 
 ![alt text](https://github.com/coconnell022/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true)
 
