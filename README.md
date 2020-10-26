@@ -30,7 +30,8 @@ Another disparity is the significantly lower average fare per driver within urba
 It would also be beneficial for the company to focus their efforts of marketing and hiring in areas where rides and drivers are lacking. For example, as shown in the summary table, in rural and suburban areas, the number of total rides is greater than the number of total drivers, whereas it is the opposite for urban cities. It is important within urban cities to market the ride-sharing service so that the total number of rides increase and equal opportunity is provided to all drivers to make an adequate income. 
 
 
-
+       Caroline O'Connell
+       October, 25, 2020
 
 
 
