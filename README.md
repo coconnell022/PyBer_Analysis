@@ -31,7 +31,7 @@ It would also be beneficial for the company to focus their efforts of marketing 
 
 
        Caroline O'Connell
-       October, 25, 2020
+       October 25, 2020
 
 
 
